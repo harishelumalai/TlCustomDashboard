@@ -1,0 +1,12 @@
+.cme {
+  max-width: 500px;
+  min-width: 100px;
+  max-height: 500px;
+  min-height: 100px;
+  width: 420px;
+  height: 440px;
+  margin-top: 5px;
+  margin-left: 10px;
+  border: 1px solid #ddd;
+  display: inline-block;
+}

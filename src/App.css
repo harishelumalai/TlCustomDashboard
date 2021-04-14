@@ -1,0 +1,17 @@
+*,
+::after,
+::before {
+  margin: 0px;
+  padding: 0px;
+}
+.CenterContainer {
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: teal;
+}
+
+.Container {
+  padding-left: 64px;
+}
