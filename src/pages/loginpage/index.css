@@ -1,0 +1,15 @@
+.LoginBG {
+  /*background-color: blueviolet;*/
+  background-color: #343a40;
+}
+
+.Card {
+  border-radius: 5px;
+}
+
+.LoginCard {
+  min-width: 300px;
+  max-width: 500px;
+  padding: 20px;
+  background-color: whitesmoke;
+}
